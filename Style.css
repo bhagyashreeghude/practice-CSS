@@ -2,5 +2,13 @@ h3{
     color:red;
 }
 body{
-    background-color: coral;
+    background-color:burlywood;
+    
+}
+button{
+    background-color: antiquewhite;
+    color: rgb(0,0,255)
+}
+p{
+    color: #ff2222
 }
